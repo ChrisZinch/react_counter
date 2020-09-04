@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,OACE,WAAY,CADd,aAII,cAAe,CACf,wBAA4B","file":"main.b90532fe.chunk.css","sourcesContent":["button {\n  margin: 10px;\n\n  &:hover {\n    cursor: pointer;\n    background-color: aquamarine;\n  }\n}\n"]}
